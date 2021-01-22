@@ -1,0 +1,15 @@
+p {
+  color: #ffa500;
+}
+.titulo-h2 {
+  color: #ff0000;
+}
+#element {
+  color: aqua;
+}
+[rancio="sii"] {
+  color: green;
+}
+h3 p:hover {
+  color: blue;
+}
