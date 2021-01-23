@@ -5,3 +5,7 @@ h1 {
 .color-red {
   color: blue;
 }
+
+.form__input {
+  color: aqua;
+}
