@@ -11,5 +11,7 @@ h2 {
   text-align: center;
   margin: 20px 10px;
   border-radius: 2em;
-  border: 5px solid black;
+  box-shadow: 30px 30px 10px 10px #000;
+  text-shadow: 2px 2px 7px #fff;
+  /*transform: rotate(45deg);*/
 }

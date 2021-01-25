@@ -1,0 +1,33 @@
+* {
+  font-family: Fira Code;
+  font-weight: 100px;
+}
+
+div {
+  width: 120px;
+  height: 120px;
+  display: block;
+  background: yellow;
+}
+
+.caja1 {
+  background-color: orange;
+}
+
+.caja2 {
+  background-color: green;
+  position: relative;
+  top: 60px;
+  left: 20px;
+  z-index: 100;
+}
+
+.caja3 {
+  background-color: lightblue;
+  position: relative;
+  z-index: 10;
+}
+
+.caja4 {
+  background-color: yellow;
+}
