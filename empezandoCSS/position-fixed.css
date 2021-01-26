@@ -1,0 +1,10 @@
+* {
+  font-family: Helvetica;
+}
+
+.caja-fixed {
+  background: orange;
+  position: sticky;
+  opacity: 0.3;
+  top: 0;
+}
